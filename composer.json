@@ -1,0 +1,12 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "slim/php-view": "^2.2",
+        "slim/twig-view": "^2.2",
+        "predis/predis": "1.0.3",
+        "monolog/monolog": "^1.22",
+        "php-console/php-console": "^3.1",
+        "linecorp/line-bot-sdk": "^1.5",
+        "ext-gd": "*"
+    }
+}
